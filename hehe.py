@@ -1,3 +1,0 @@
-#hehe
-
-print("kmn acho")
